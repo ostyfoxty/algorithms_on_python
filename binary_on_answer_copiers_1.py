@@ -1,4 +1,4 @@
-n, x, y = int(input()), int(input()), int(input())
+_n, x, y = int(input()), int(input()), int(input())
 if x > y:
     x, y = y, x
 
